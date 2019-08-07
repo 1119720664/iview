@@ -42,11 +42,6 @@
     name: 'HelloWorld',
     props: {
       msg: String
-    },
-    data() {
-      return {
-        number: 123
-      }
     }
   }
 </script>
